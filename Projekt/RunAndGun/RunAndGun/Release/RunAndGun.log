@@ -1,0 +1,18 @@
+﻿  App.cpp
+D:\Projects\ProjektR&G\Projekt\RunAndGun\RunAndGun\App.cpp(86,21): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Bullet.cpp
+  Enemy.cpp
+  ExperienceBar.cpp
+  FastEnemy.cpp
+  HealthIndicator.cpp
+  HealthPoints.cpp
+  Hero.cpp
+  RunAndGun.cpp
+  ShootingEnemy.cpp
+  SlowEnemy.cpp
+  Timer.cpp
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 434 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  RunAndGun.vcxproj -> D:\Projects\ProjektR&G\Projekt\RunAndGun\Release\RunAndGun.exe

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Projects\POLSL\PK4sem\Projekt\RunAndGun\RunAndGun\</FILEPATH>
+      <FILENAME>Bullet.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Typ wyliczeniowy „BulletStatus” nie ma zakresu. Preferowany jest element „enum class” zamiast „enum” (enum.3).</DESCRIPTION>
+    <FUNCTION>Bullet::initBullet</FUNCTION>
+    <DECORATED>?initBullet@Bullet@@AAEXAAVHero@@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
